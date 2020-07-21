@@ -11,7 +11,7 @@ All the videos will be in MPEG-4 Part 14 (MP4) format.
 
 
 ## Git Installation
-
+```
 # clone the repo
 $ git clone https://github.com/mahim4/mdf.git
 
@@ -20,7 +20,7 @@ $ cd mdf
 
 # install the module
 $ python setup.py install
-
+```
 Now you can execute it from any repo..:')
 
 ## Usages
@@ -42,4 +42,4 @@ If you are downloading copyrighted content you should respect author's rights an
 - Contributions of any kind welcome!
 
 ## License
-MDF is made with ♥ by [@_\_mahim](https://www.facebook.com/mi.mahim.69) and it is released under the GPL-3.0 license.
+MDF is made with ♥ by [@_\_mahim](https://www.facebook.com/mi.mahim.69) and it is released under the AGPL-3.0 license.
