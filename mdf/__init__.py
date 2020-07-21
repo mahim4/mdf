@@ -27,7 +27,7 @@ def banner():
 def main(url, path):
     banner()
     print("\033[1;34;40mURL :\033[1;32;40m", url,"\n")
-    print("\033[1;34;40mSave As :\033[1;32;40m", path,"\n","\n\033[1;31;40mYou can setup a name by (default=url.mp4)","\n\033[1;34;40m      mdn [url] -s [file.mp4]")
+    print("\033[1;34;40mSave As :\033[1;32;40m", path,"\n","\n\033[1;31;40mYou can setup a name by (default=url.mp4)","\n\033[1;34;40m      mdf [url] -s [file.mp4]")
     link = getdownlink(url)
     download(link, path)
     pass
