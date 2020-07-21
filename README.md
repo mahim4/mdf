@@ -24,13 +24,13 @@ $ python setup.py install
 Now you can execute it from any repo..:')
 
 ## Usages
-
+```
 mdf [url]
-
+```
 ![fb_v](https://raw.githubusercontent.com/mahim4/mdf/master/images/download_without_name.gif) 
-
+```
 mdf [url] -s random_or_anyname.mp4
-
+```
 ![fb_v](https://raw.githubusercontent.com/mahim4/mdf/master/images/download_with_name.gif) 
 
 
